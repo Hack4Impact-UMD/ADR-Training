@@ -10,7 +10,7 @@ The main goal of this exercise is to practice basic git operations such as forki
 
 ## Tasks
 ### Task 1: Palindrome Checker (Initial Task)
-Write an initial code in a file named `palindrome_checker.py` which checks if a given number is a palindrome.
+Write an initial code in a file named `palindrome_checker-YOURNAME.py` which checks if a given number is a palindrome. Replace YOURNAME with your name.
 
 ### Task 2: Implement Even Number Check
 1. Create a new branch named `feature-even-check`.
