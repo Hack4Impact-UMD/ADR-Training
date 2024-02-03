@@ -5,8 +5,8 @@ Palindrome and Even Number Checker
 The main goal of this exercise is to practice basic git operations such as forking, branching, merging, resolving merge conflicts, pulling, and committing. You will start with a simple Python script that checks if a number is a palindrome and then later modify it to also check if the number is even.
 
 ## Setup
-1. **Fork this repository** to your GitHub account.
-2. **Clone your forked repository** to your local machine.
+1. **Create a folder** on your local machine called "ADR-Practice" and cd into the folder.
+2. **Clone this repository** to your local machine using Terminal and open in Visual Studio Code.
 
 ## Tasks
 ### Task 1: Palindrome Checker (Initial Task)
